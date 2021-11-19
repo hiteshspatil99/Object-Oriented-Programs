@@ -1,0 +1,18 @@
+
+  [
+    {
+      "StockName": "Infosys",
+      "NumberOfShares": 35,
+      "PricePerShare": 1774
+    },
+    {
+      "StockName": "TCS",
+      "NumberOfShares": 30,
+      "PricePerShare": 3471
+    },
+    {
+      "StockName": "Wipro",
+      "NumberOfShares": 50,
+      "PricePerShare": 649
+    }
+  ]
